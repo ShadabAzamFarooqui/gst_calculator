@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="numberTextSize">20sp</dimen>
+    <dimen name="otherInputTextSize">16sp</dimen>
+
+
+</resources>
